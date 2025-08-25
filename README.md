@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=xak2000&theme=flat&margin-w=5&margin-h=5&column=8&row=1&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://trophygh.kolioaris.xyz/?username=xak2000&theme=flat&margin-w=5&margin-h=5&column=8&row=1&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
