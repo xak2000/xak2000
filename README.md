@@ -17,3 +17,8 @@ Here are some ideas to get you started:
 
 
 [![trophy](https://trophygh.kolioaris.xyz/?username=xak2000&theme=flat&margin-w=5&margin-h=5&column=8&row=1&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="left">
+<img height="130em" src="https://github-readme-stats.vercel.app/api?username=xak2000&show_icons=true&include_all_commits=true&hide_title=true&line_height=24&bg_color=fff&text_color=888&hide_border=false" align="center"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xak2000&layout=compact&hide_title=true&langs_count=6&bg_color=fff&text_color=888&hide_border=false" align="center"/>
+</p>
